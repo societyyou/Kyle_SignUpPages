@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "678810391975",
+    "firebase_url": "https://societyu-9-4-2018-signinpages.firebaseio.com",
+    "project_id": "societyu-9-4-2018-signinpages",
+    "storage_bucket": "societyu-9-4-2018-signinpages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678810391975:android:e5d071f0d9f05675",
+        "android_client_info": {
+          "package_name": "societyu.kyle.com.societyu_signinpages_redesigned_942018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678810391975-jdkegbq23nkccqr2l2lomrk3vko9o0gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9C9nOqvXCAiU8N3jC7hgsy-9DzZJ_onk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SocietyU</string>
+    <string name="GroupsHeader">Groups</string>
+    <string name="GroupsSubText">Join group meetings online and chat with other users</string>
+    <string name="PrivateHeader">Private Sessions</string>
+    <string name="PrivateSubText">Don\'t feel comfortable talking in a group session? Book a private session</string>
+    <string name="OnlineSupportHeader">Online Support</string>
+    <string name="OnlineSupportSubText">Search our database for a provider with 24 hour online support</string>
+    <string name="startButton">Getting started</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start_slider">Got it</string>
+    <string name="chooseAcctType">Choose your account type</string>
+    <string name="user">User</string>
+    <string name="provider">Provider</string>
+    <string name="alreadyHasAcct">Already have an account?</string>
+    <string name="signIn">Sign In</string>
+</resources>

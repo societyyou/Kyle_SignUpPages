@@ -1,6 +1,7 @@
 package societyu.kyle.com.societyu_signinpages_redesigned_942018;
 
 import android.content.Intent;
+import android.graphics.Path;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -117,8 +118,10 @@ public class ScreenSlidePagerActivity extends FragmentActivity {
     }
 
     public void onClickGettingStarted(View view){
-        startActivity(new Intent(ScreenSlidePagerActivity.this, OptionsSignInPage.class));
+        startActivity(new Intent(ScreenSlidePagerActivity.this, SignInPage.class));
     }
+
+
 
     /**
      * A simple pager adapter that represents 3 ScreenSlidePageFragment objects, in

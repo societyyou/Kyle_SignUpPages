@@ -15,4 +15,9 @@
     <string name="provider">Provider</string>
     <string name="alreadyHasAcct">Already have an account?</string>
     <string name="signIn">Sign In</string>
+    <string name="strangersFriends">Where strangers become friends</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgotPassword">Forgot your password?</string>
+    <string name="signUpNow">Sign Up Now</string>
 </resources>

@@ -22,7 +22,8 @@
             android:layout_marginBottom="15sp"
             android:adjustViewBounds="true"
             android:scaleType="fitCenter"
-            android:src="@mipmap/societyulogo" />
+            android:src="@mipmap/societyulogos"
+            />
 
         <TextView
             android:id="@+id/chooseAccountType_tv"

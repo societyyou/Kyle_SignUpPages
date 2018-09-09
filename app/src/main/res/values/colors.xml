@@ -6,6 +6,9 @@
     <color name="colorAccent">#f2fe71</color>
     <color name="white">#ffffff</color>
     <color name="Highlighted_blue">#215182</color>
+    <color name="blue">#0000FF</color>
+    <color name="lightBlue">#5BD2FF</color>
+    <color name="grey">#A7AFB2</color>
 
     <!-- dots inactive colors -->
     <color name="dot_dark_screen1">#d1395c</color>

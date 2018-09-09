@@ -18,10 +18,10 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="F:\Downloads\newlogosocietyu.png" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_foreground" />
-                                      <entry key="outputName" value="societyulogo" />
+                                      <entry key="backgroundLayerName" value="societyulogo_background" />
+                                      <entry key="foregroundImage" value="C:\Users\Kyle\Desktop\newlogosocietyu.png" />
+                                      <entry key="foregroundLayerName" value="societyuilogo_foreground" />
+                                      <entry key="outputName" value="societyulogos" />
                                     </map>
                                   </option>
                                 </PersistentState>

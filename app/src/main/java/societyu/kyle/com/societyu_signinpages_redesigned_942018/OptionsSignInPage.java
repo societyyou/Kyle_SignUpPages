@@ -22,6 +22,6 @@ public class OptionsSignInPage extends AppCompatActivity {
     }
 
     public void userAcctChosen(View view){
-        startActivity(new Intent());
+        startActivity(new Intent(OptionsSignInPage.this, SignInPage.class));
     }
 }

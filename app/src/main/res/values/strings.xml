@@ -20,4 +20,20 @@
     <string name="password">Password</string>
     <string name="forgotPassword">Forgot your password?</string>
     <string name="signUpNow">Sign Up Now</string>
+    <string name="forgotLogIn">Forgot your login?</string>
+    <string name="forgotSubText">Don\'t worry, we\'ll get you back in</string>
+    <string name="resetBtn">Reset</string>
+    <string name="fullName">Full Name</string>
+    <string name="email">Email</string>
+    <string name="Username">Username</string>
+    <string name="agree">Agree</string>
+    <string name="terms">Terms &amp; Conditions</string>
+    <string name="IAgree">I agree with terms and conditions</string>
+    <string name="license">License</string>
+    <string name="yourLocation">Where are you located?</string>
+    <string name="zipCode">Zip Code</string>
+    <string name="contact">How can we contact you?</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="specialty">Specialty</string>
 </resources>

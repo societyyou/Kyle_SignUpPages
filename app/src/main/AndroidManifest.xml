@@ -18,7 +18,14 @@
             </intent-filter>
         </activity>
         <activity android:name=".OptionsSignInPage" />
-        <activity android:name=".SignInPage"></activity>
+        <activity android:name=".SignInPage" />
+        <activity android:name=".forgotPassword" />
+        <activity android:name=".userSignUpPage" />
+        <activity android:name=".ProvidersSignUpVerificationPage" />
+        <activity android:name=".ProvidersSignUpZipcode" />
+        <activity android:name=".ProviderSignUpContact" />
+        <activity android:name=".ProviderSignUpName" />
+        <activity android:name=".ProviderSignUpSpecialty"></activity>
     </application>
 
 </manifest>

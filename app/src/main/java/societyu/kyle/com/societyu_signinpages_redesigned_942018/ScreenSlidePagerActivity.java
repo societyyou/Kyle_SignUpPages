@@ -118,7 +118,7 @@ public class ScreenSlidePagerActivity extends FragmentActivity {
     }
 
     public void onClickGettingStarted(View view){
-        startActivity(new Intent(ScreenSlidePagerActivity.this, SignInPage.class));
+        launchHomeScreen();
     }
 
 

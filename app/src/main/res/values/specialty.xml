@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="specialty_array">
+        <item>Addictions</item>
+        <item>Mental Health</item>
+        <item>Health</item>
+        <item>Conditions &amp; Disease</item>
+        <item>Parenting</item>
+        <item>Substance Abuse</item>
+    </string-array>
+</resources>

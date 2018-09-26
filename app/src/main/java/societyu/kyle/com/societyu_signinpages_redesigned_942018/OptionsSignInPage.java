@@ -14,11 +14,11 @@ public class OptionsSignInPage extends AppCompatActivity {
     }
 
     public void toSignInPage(View view){
-        startActivity(new Intent());
+        startActivity(new Intent(OptionsSignInPage.this, SignInPage.class));
     }
 
     public void providerAcctChosen(View view){
-        startActivity(new Intent());
+        startActivity(new Intent(OptionsSignInPage.this, ProvidersSignUpVerificationPage.class));
     }
 
     public void userAcctChosen(View view){

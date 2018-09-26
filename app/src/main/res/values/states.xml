@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="states_array">
+        <item>Florida</item>
+        <item>New York</item>
+        <item>Texas</item>
+        <item>Georgia</item>
+        <item>California</item>
+        <item>Virginia</item>
+        <item>North Carolina</item>
+        <item>Rhode Island</item>
+    </string-array>
+</resources>
